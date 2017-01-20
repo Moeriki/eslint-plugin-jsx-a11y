@@ -60,7 +60,7 @@
     "object-assign": "^4.0.1"
   },
   "peerDependencies": {
-    "eslint": "^2.10.2 || 3.x"
+    "eslint": "^3.14.0"
   },
   "jest": {
     "coverageReporters": [
